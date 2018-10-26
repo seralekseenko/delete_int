@@ -10,5 +10,7 @@ the following form:
 design a data type so that all operations (except construction) take
 logarithmic time or better in the worst case.
 
+# Hint: 
+use the modification of the union−find data discussed in the previous question.
 
 ## Done?
